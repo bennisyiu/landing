@@ -1,0 +1,42 @@
+.banner {
+  display: block;
+  height: 550px;
+  background-size: cover;
+  /*display: flex;
+  justify-content: center;
+  align-items: center;*/
+
+}
+
+.container {
+  display: block;
+  margin: 20px;
+  width: 600px;
+  padding-top: 150px;
+  padding-left: 30px;
+
+}
+
+
+.container h2 {
+  display: block
+  font-size: 100px;
+  color: white;
+
+
+}
+
+.container p {
+  display: block;
+  font-size: 20px;
+  color: grey;
+  margin: 20px auto;
+
+}
+
+.btn {
+  color: white;
+  background-color: #1CDD88;
+  border-radius: 20px;
+  padding: 10px 30px;
+}
